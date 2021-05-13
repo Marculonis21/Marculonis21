@@ -1,9 +1,9 @@
 ### Hi there 👋 What about me?
 
 - 🔭 I’m currently working on 
+    - C# Falling sand sim 
   - Small 2D pixelart style game in Unity
-  - 2D pyhon Planet simulation
-  - E-learning lectures on Python for itnetwork.cz
+  - E-learning lectures - AI in Python for itnetwork.cz
   
 - 💬 Ask me about anything that might catch your interest here!
 
