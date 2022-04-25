@@ -1,8 +1,8 @@
 ### Hi there 👋 What about me?
 
 - 🔭 I’m currently working on 
-    - C# Falling sand sim
-    - C# Raymarching engine 
+  - Python Gym Mujoco walking robots with Genetic Algs 
+  - C# Raymarching engine 
   - Small 2D pixelart style game in Unity
   - E-learning lectures - AI in Python for https://www.itnetwork.cz/python/neuronove-site
   
