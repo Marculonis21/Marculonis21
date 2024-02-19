@@ -1,6 +1,6 @@
 ### Hi there 👋 What about me?
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on (really not up to date xD) 
   - Python Gym Mujoco walking robots with Genetic Algs 
   - C# Raymarching engine 
   - Small 2D pixelart style game in Unity
