@@ -15,4 +15,4 @@
 
 - ⚡ Fun fact - **YOU can learn anything!**
 
-- Hobby? ALL Sports (working out, climbing, golf, squash, ...), computers and recently FPV drones (https://www.instagram.com/highonair21/)
+- Hobby? ALL Sports (working out, basketball, climbing, golf, squash, ...), computers and recently FPV drones (https://www.instagram.com/highonair21/)
