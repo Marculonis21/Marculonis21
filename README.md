@@ -4,7 +4,7 @@
 - 🔭 Current side projects:
   - [EvoScript](https://github.com/Marculonis21/EvoScripts) - Evolutionary algorithm for evolving script species
   - [tdms2root](https://github.com/Marculonis21/tdms2root) - CERN project for conversion of tdms files (from daq system) to root files for data analysis via CERN ROOT c++ library
-  - C++ Terrain sim inspired by game From Dust with real time terrain erosion
+  - [terrainOpenGL](https://github.com/Marculonis21/CPPDrawing/tree/main/terrainOpenGL) - C++ Terrain sim inspired by game From Dust with real time terrain erosion
   - Learning Rust and Julia / Playing around with old Advent of code problems in Rust
 
 - I used to write E-learning lectures for ITNetwork.cz: AI in Python for https://www.itnetwork.cz/python/neuronove-site
